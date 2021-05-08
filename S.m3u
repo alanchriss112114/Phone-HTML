@@ -1,0 +1,1457 @@
+#EXTM3U
+#EXTINF:-1,9X Jalwa-High Bandwidth
+
+http://94.75.250.49/liveorigin/9xjal...1/ratus42.m3u8
+
+#EXTINF:-1,9X Jalwa
+
+http://94.75.250.49/liveorigin/9xjal...2/ratus42.m3u8
+
+#EXTINF:-1,9X Jalwa-Low Bandwidth
+
+http://94.75.250.49/liveorigin/9xjal...3/ratus42.m3u8
+
+#EXTINF:-1,9xJhakaas-High Bandwidth
+
+http://94.75.250.49/liveorigin/etvuk1/ratus42.m3u8
+
+#EXTINF:-1,9xJhakaas
+
+http://94.75.250.49/liveorigin/etvuk2/ratus42.m3u8
+
+#EXTINF:-1,9xJhakaas-Low Bandwidth
+
+http://94.75.250.49/liveorigin/etvuk3/ratus42.m3u8
+
+#EXTINF:-1,Aajtak-High Bandwidth
+
+http://94.75.250.49:80/liveorigin/aa...1/ratus42.m3u8
+
+#EXTINF:-1,Aajtak
+
+http://94.75.250.49:80/liveorigin/aa...2/ratus42.m3u8
+
+#EXTINF:-1,Aajtak-Low Bandwidth
+
+http://94.75.250.49:80/liveorigin/aa...3/ratus42.m3u8
+
+#EXTINF:-1,ABN Andhra Jyothi -High Bandwidth
+
+http://94.75.250.49/liveorigin/abn1/ratus42.m3u8
+
+#EXTINF:-1,ABN Andhra Jyothi
+
+http://94.75.250.49/liveorigin/abn2/ratus42.m3u8
+
+#EXTINF:-1,ABN Andhra Jyothi -Low Bandwidth
+
+http://94.75.250.49/liveorigin/abn3/ratus42.m3u8
+
+#EXTINF:-1,Asianetnews-High Bandwidth
+
+http://94.75.250.49/liveorigin/asianet1/ratus42.m3u8
+
+#EXTINF:-1,asianetnews
+
+http://94.75.250.49/liveorigin/asianet2/ratus42.m3u8
+
+#EXTINF:-1,asianetnews-Low Bandwidth
+
+http://94.75.250.49/liveorigin/asianet3/ratus42.m3u8
+
+#EXTINF:-1,ATA Event-High Bandwidth
+
+http://94.75.250.49/liveorigin/ata.stream1/ratus42.m3u8
+
+#EXTINF:-1,ATA Event
+
+http://94.75.250.49/liveorigin/ata.stream2/ratus42.m3u8
+
+#EXTINF:-1,ATA Event-Low Bandwidth
+
+http://94.75.250.49/liveorigin/ata.stream3/ratus42.m3u8
+
+#EXTINF:-1,Atlanta Live-High Bandwidth
+
+http://94.75.250.49/liveorigin/atlan...1/ratus42.m3u8
+
+#EXTINF:-1,Atlanta Live
+
+http://94.75.250.49/liveorigin/atlan...2/ratus42.m3u8
+
+#EXTINF:-1,Atlanta Live-Low Bandwidth
+
+http://94.75.250.49/liveorigin/atlan...3/ratus42.m3u8
+
+#EXTINF:-1,AY TV-High Bandwidth
+
+http://94.75.250.49/liveorigin/aytv....1/ratus42.m3u8
+
+#EXTINF:-1,AY TV
+
+http://94.75.250.49/liveorigin/aytv....2/ratus42.m3u8
+
+#EXTINF:-1,AY TV-Low Bandwidth
+
+http://94.75.250.49/liveorigin/aytv....3/ratus42.m3u8
+
+#EXTINF:-1,Bakthi-High Bandwidth
+
+http://94.75.250.49/liveorigin/bhakt...1/ratus42.m3u8
+
+#EXTINF:-1,Bakthi
+
+http://94.75.250.49/liveorigin/bhakt...2/ratus42.m3u8
+
+#EXTINF:-1,Bakthi-Low Bandwidth
+
+http://94.75.250.49/liveorigin/bhakt...3/ratus42.m3u8
+
+#EXTINF:-1,CNC3-High Bandwidth
+
+http://190.58.249.70:80/tstt/tstt11/ratus42.m3u8
+
+#EXTINF:-1,CNC3
+
+http://190.58.249.70:80/tstt/tstt12/ratus42.m3u8
+
+#EXTINF:-1,CNMG
+
+http://190.58.249.70:80/tstt/tstt22/ratus42.m3u8
+
+#EXTINF:-1,CNMG-High Bandwidth
+
+http://190.58.249.70:80/tstt/tstt21/ratus42.m3u8
+
+#EXTINF:-1,CW TV-High Bandwidth
+
+http://190.58.249.70:80/tstt/cw1/ratus42.m3u8
+
+#EXTINF:-1,CW TV
+
+http://190.58.249.70:80/tstt/cw2/ratus42.m3u8
+
+#EXTINF:-1,Dallas Live-High Bandwidth
+
+http://94.75.250.49/liveorigin/yupptvlive1/ratus42.m3u8
+
+#EXTINF:-1,Dallas Live
+
+http://94.75.250.49/liveorigin/yupptvlive2/ratus42.m3u8
+
+#EXTINF:-1,Dallas Live-Low Bandwidth
+
+http://94.75.250.49/liveorigin/yupptvlive3/ratus42.m3u8
+
+#EXTINF:-1,Darshan24-High Bandwidth
+
+http://94.75.250.49/liveorigin/darshan241/ratus42.m3u8
+
+#EXTINF:-1,Darshan24
+
+http://94.75.250.49/liveorigin/darshan242/ratus42.m3u8
+
+#EXTINF:-1,Darshan24-Low Bandwidth
+
+http://94.75.250.49/liveorigin/darshan243/ratus42.m3u8
+
+#EXTINF:-1,Demo
+
+http://94.75.250.49/liveorigin/chann...2/ratus42.m3u8
+
+#EXTINF:-1,Demo-High Bandwidth
+
+http://94.75.250.49/liveorigin/chann...1/ratus42.m3u8
+
+#EXTINF:-1,DhoomMusic-High Bandwidth
+
+http://94.75.250.49/liveorigin/dhoom...1/ratus42.m3u8
+
+#EXTINF:-1,DhoomMusic-Low Bandwidth
+
+http://94.75.250.49/liveorigin/dhoom...3/ratus42.m3u8
+
+#EXTINF:-1,DhoomMusic
+
+http://94.75.250.49/liveorigin/dhoom...2/ratus42.m3u8
+
+#EXTINF:-1,ETNow -Low Bandwidth
+
+http://94.75.250.49/liveorigin/etnow3/ratus42.m3u8
+
+#EXTINF:-1,ETNow
+
+http://94.75.250.49/liveorigin/etnow2/ratus42.m3u8
+
+#EXTINF:-1,ETNow -High Bandwidth
+
+http://94.75.250.49/liveorigin/etnow1/ratus42.m3u8
+
+#EXTINF:-1,ETV2-High Bandwidth
+
+http://94.75.250.49/liveorigin/etv21/ratus42.m3u8
+
+#EXTINF:-1,ETV2
+
+http://94.75.250.49/liveorigin/etv22/ratus42.m3u8
+
+#EXTINF:-1,ETV2-Low Bandwidth
+
+http://94.75.250.49/liveorigin/etv23/ratus42.m3u8
+
+#EXTINF:-1,Fun Asia-High Bandwidth
+
+http://94.75.250.49/liveorigin/sahar...1/ratus42.m3u8
+
+#EXTINF:-1,Fun Asia
+
+http://94.75.250.49/liveorigin/sahar...2/ratus42.m3u8
+
+#EXTINF:-1,Fun Asia-Low Bandwidth
+
+http://94.75.250.49/liveorigin/sahar...3/ratus42.m3u8
+
+#EXTINF:-1,Fun Asia Live-High Bandwidth
+
+http://94.75.250.49/liveorigin/funas...1/ratus42.m3u8
+
+#EXTINF:-1,Fun Asia Live
+
+http://94.75.250.49/liveorigin/funas...2/ratus42.m3u8
+
+#EXTINF:-1,FunasiaAM-High Bandwidth
+
+http://94.75.250.49/liveorigin/funas...1/ratus42.m3u8
+
+#EXTINF:-1,FunasiaAM
+
+http://94.75.250.49/liveorigin/funas...2/ratus42.m3u8
+
+#EXTINF:-1,FunasiaAM-Low Bandwidth
+
+http://94.75.250.49/liveorigin/funas...3/ratus42.m3u8
+
+#EXTINF:-1,Headlines Today-High Bandwidth
+
+http://94.75.250.49/liveorigin/headl...1/ratus42.m3u8
+
+#EXTINF:-1,Headlines Today
+
+http://94.75.250.49/liveorigin/headl...2/ratus42.m3u8
+
+#EXTINF:-1,Headlines Today-Low Bandwidth
+
+http://94.75.250.49/liveorigin/headl...3/ratus42.m3u8
+
+#EXTINF:-1,HMTV -High Bandwidth
+
+http://94.75.250.49/liveorigin/hmtv1/ratus42.m3u8
+
+#EXTINF:-1,HMTV
+
+http://94.75.250.49/liveorigin/hmtv2/ratus42.m3u8
+
+#EXTINF:-1,HMTV -Low Bandwidth
+
+http://94.75.250.49/liveorigin/hmtv3/ratus42.m3u8
+
+#EXTINF:-1,iNews-High Bandwidth
+
+http://94.75.250.49/liveorigin/inews...1/ratus42.m3u8
+
+#EXTINF:-1,iNews
+
+http://94.75.250.49/liveorigin/inews...2/ratus42.m3u8
+
+#EXTINF:-1,iNews-Low Bandwidth
+
+http://94.75.250.49/liveorigin/inews...3/ratus42.m3u8
+
+#EXTINF:-1,Jai Hind-High Bandwidth
+
+http://94.75.250.49/liveorigin/jaihind1/ratus42.m3u8
+
+#EXTINF:-1,Jai Hind
+
+http://94.75.250.49/liveorigin/jaihind2/ratus42.m3u8
+
+#EXTINF:-1,Jai Hind-Low Bandwidth
+
+http://94.75.250.49/liveorigin/jaihind3/ratus42.m3u8
+
+#EXTINF:-1,Janasri News-High Bandwidth
+
+http://94.75.250.49/liveorigin/channel81/ratus42.m3u8
+
+#EXTINF:-1,Janasri News
+
+http://94.75.250.49/liveorigin/channel82/ratus42.m3u8
+
+#EXTINF:-1,Janasri News-Low Bandwidth
+
+http://94.75.250.49/liveorigin/channel83/ratus42.m3u8
+
+#EXTINF:-1,Jaya Plus Tamil-High Bandwidth
+
+http://94.75.250.49/liveorigin/jayaplus1/ratus42.m3u8
+
+#EXTINF:-1,Jaya Plus Tamil
+
+http://94.75.250.49/liveorigin/jayaplus2/ratus42.m3u8
+
+#EXTINF:-1,Jaya Plus Tamil-Low Bandwidth
+
+http://94.75.250.49/liveorigin/jayaplus3/ratus42.m3u8
+
+#EXTINF:-1,Jeeyar-High Bandwidth
+
+http://94.75.250.49/liveorigin/kalaignar1/ratus42.m3u8
+
+#EXTINF:-1,Jeeyar
+
+http://94.75.250.49/liveorigin/kalaignar2/ratus42.m3u8
+
+#EXTINF:-1,Jeeyar-Low Bandwidth
+
+http://94.75.250.49/liveorigin/kalaignar3/ratus42.m3u8
+
+#EXTINF:-1,MahaaTV-High Bandwidth
+
+http://94.75.250.49/liveorigin/mahatv9001/ratus42.m3u8
+
+#EXTINF:-1,MahaaTV
+
+http://94.75.250.49/liveorigin/mahatv9002/ratus42.m3u8
+
+#EXTINF:-1,MahaaTV-Low Bandwidth
+
+http://94.75.250.49/liveorigin/mahatv9003/ratus42.m3u8
+
+#EXTINF:-1,Mahuaa Khabor-High Bandwidth
+
+http://94.75.250.49/liveorigin/mahua...1/ratus42.m3u8
+
+#EXTINF:-1,Mahuaa Khabor
+
+http://94.75.250.49/liveorigin/mahua...2/ratus42.m3u8
+
+#EXTINF:-1,Mahuaa Khabor-Low Bandwidth
+
+http://94.75.250.49/liveorigin/mahua...3/ratus42.m3u8
+
+#EXTINF:-1,Mahuaatv-High Bandwidth
+
+http://94.75.250.49/liveorigin/mahua...1/ratus42.m3u8
+
+#EXTINF:-1,Mahuaatv
+
+http://94.75.250.49/liveorigin/mahua...2/ratus42.m3u8
+
+#EXTINF:-1,Mahuaatv-Low Bandwidth
+
+http://94.75.250.49/liveorigin/mahua...3/ratus42.m3u8
+
+#EXTINF:-1,Mangalmaya-High Bandwidth
+
+http://94.75.250.49/liveorigin/aasaram1/ratus42.m3u8
+
+#EXTINF:-1,Mangalmaya
+
+http://94.75.250.49/liveorigin/aasaram2/ratus42.m3u8
+
+#EXTINF:-1,Mangalmaya-Low Bandwidth
+
+http://94.75.250.49/liveorigin/aasaram3/ratus42.m3u8
+
+#EXTINF:-1,NATA Event-High Bandwidth
+
+http://94.75.250.49/liveorigin/nata1/ratus42.m3u8
+
+#EXTINF:-1,NATA Event
+
+http://94.75.250.49/liveorigin/nata2/ratus42.m3u8
+
+#EXTINF:-1,NATA Event-Low Bandwidth
+
+http://94.75.250.49/liveorigin/nata3/ratus42.m3u8
+
+#EXTINF:-1,NDTV 24x7-High Bandwidth
+
+http://94.75.250.49/liveorigin/ndtve...1/ratus42.m3u8
+
+#EXTINF:-1,NDTV 24x7
+
+http://94.75.250.49/liveorigin/ndtve...2/ratus42.m3u8
+
+#EXTINF:-1,NDTV 24x7-Low Bandwidth
+
+http://94.75.250.49/liveorigin/ndtve...3/ratus42.m3u8
+
+#EXTINF:-1,NDTV INDIA-High Bandwidth
+
+http://94.75.250.49/liveorigin/ndtvh...1/ratus42.m3u8
+
+#EXTINF:-1,NDTV INDIA
+
+http://94.75.250.49/liveorigin/ndtvh...2/ratus42.m3u8
+
+#EXTINF:-1,NDTV INDIA-Low Bandwidth
+
+http://94.75.250.49/liveorigin/ndtvh...3/ratus42.m3u8
+
+#EXTINF:-1,NETV NEWS-High Bandwidth
+
+http://94.75.250.49/liveorigin/netvn...1/ratus42.m3u8
+
+#EXTINF:-1,NETV NEWS
+
+http://94.75.250.49/liveorigin/netvn...2/ratus42.m3u8
+
+#EXTINF:-1,NETV NEWS-Low Bandwidth
+
+http://94.75.250.49/liveorigin/netvn...3/ratus42.m3u8
+
+#EXTINF:-1,newstime-High Bandwidth
+
+http://94.75.250.49/liveorigin/newst...1/ratus42.m3u8
+
+#EXTINF:-1,newstime
+
+http://94.75.250.49/liveorigin/newst...2/ratus42.m3u8
+
+#EXTINF:-1,newstime-Low Bandwidth
+
+http://94.75.250.49/newstimebengal90...3/ratus42.m3u8
+
+#EXTINF:-1,NTV -High Bandwidth
+
+http://94.75.250.49/liveorigin/ntv1/ratus42.m3u8
+
+#EXTINF:-1,NTV
+
+http://94.75.250.49/liveorigin/ntv2/ratus42.m3u8
+
+#EXTINF:-1,NTV -Low Bandwidth
+
+http://94.75.250.49/liveorigin/ntv3/ratus42.m3u8
+
+#EXTINF:-1,People TV-High Bandwidth
+
+http://94.75.250.49/liveorigin/people9001/ratus42.m3u8
+
+#EXTINF:-1,People TV
+
+http://94.75.250.49/liveorigin/people9002/ratus42.m3u8
+
+#EXTINF:-1,People TV-Low Bandwidth
+
+http://94.75.250.49/liveorigin/people9003/ratus42.m3u8
+
+#EXTINF:-1,Punjabbi TV-High Bandwidth
+
+http://94.75.250.49/liveorigin/channel91/ratus42.m3u8
+
+#EXTINF:-1,Punjabbi TV
+
+http://94.75.250.49/liveorigin/channel92/ratus42.m3u8
+
+#EXTINF:-1,Punjabbi TV-Low Bandwidth
+
+http://94.75.250.49/liveorigin/channel93/ratus42.m3u8
+
+#EXTINF:-1,R K News -High Bandwidth
+
+http://94.75.250.49/liveorigin/rknews1/ratus42.m3u8
+
+#EXTINF:-1,R K News
+
+http://94.75.250.49/liveorigin/rknews2/ratus42.m3u8
+
+#EXTINF:-1,Raj News 24X7-High Bandwidth
+
+http://94.75.250.49/liveorigin/rajne...1/ratus42.m3u8
+
+#EXTINF:-1,Raj News 24X7
+
+http://94.75.250.49/liveorigin/rajne...2/ratus42.m3u8
+
+#EXTINF:-1,Raj News 24X7-Low Bandwidth
+
+http://94.75.250.49/liveorigin/rajne...3/ratus42.m3u8
+
+#EXTINF:-1,Raj News -High Bandwidth
+
+http://94.75.250.49/liveorigin/rajnews6001/ratus42.m3u8
+
+#EXTINF:-1,Raj News
+
+http://94.75.250.49/liveorigin/rajnews6002/ratus42.m3u8
+
+#EXTINF:-1,Raj News -Low Bandwidth
+
+http://94.75.250.49/liveorigin/rajnews6003/ratus42.m3u8
+
+#EXTINF:-1,Rakshana-High Bandwidth
+
+http://94.75.250.49/liveorigin/raksh...1/ratus42.m3u8
+
+#EXTINF:-1,Rakshana
+
+http://94.75.250.49/liveorigin/raksh...2/ratus42.m3u8
+
+#EXTINF:-1,Rakshana-Low Bandwidth
+
+http://94.75.250.49/liveorigin/raksh...3/ratus42.m3u8
+
+#EXTINF:-1,Reporter TV-High Bandwidth
+
+http://94.75.250.49/liveorigin/reporter1/ratus42.m3u8
+
+#EXTINF:-1,Reporter TV
+
+http://94.75.250.49/liveorigin/reporter2/ratus42.m3u8
+
+#EXTINF:-1,Rupashibangla-High Bandwidth
+
+http://94.75.250.49/liveorigin/rupas...1/ratus42.m3u8
+
+#EXTINF:-1,Rupashibangla
+
+http://94.75.250.49/liveorigin/rupas...2/ratus42.m3u8
+
+#EXTINF:-1,Rupashibangla-Low Bandwidth
+
+http://94.75.250.49/liveorigin/rupas...3/ratus42.m3u8
+
+#EXTINF:-1,S V B C -High Bandwidth
+
+http://94.75.250.49/liveorigin/svbc1/ratus42.m3u8
+
+#EXTINF:-1,S V B C
+
+http://94.75.250.49/liveorigin/svbc2/ratus42.m3u8
+
+#EXTINF:-1,Saam TV-High Bandwidth
+
+http://94.75.250.49/liveorigin/chann...1/ratus42.m3u8
+
+#EXTINF:-1,Saam TV
+
+http://94.75.250.49/liveorigin/chann...2/ratus42.m3u8
+
+#EXTINF:-1,Saam TV-Low Bandwidth
+
+http://94.75.250.49/liveorigin/chann...3/ratus42.m3u8
+
+#EXTINF:-1,Sakshi TV -High Bandwidth
+
+http://94.75.250.49/liveorigin/sakshi1/ratus42.m3u8
+
+#EXTINF:-1,Sakshi TV
+
+http://94.75.250.49/liveorigin/sakshi2/ratus42.m3u8
+
+#EXTINF:-1,Samay-High Bandwidth
+
+http://94.75.250.49/liveorigin/sahar...1/ratus42.m3u8
+
+#EXTINF:-1,Samay
+
+http://94.75.250.49/liveorigin/sahar...2/ratus42.m3u8
+
+#EXTINF:-1,Samay-Low Bandwidth
+
+http://94.75.250.49/liveorigin/sahar...3/ratus42.m3u8
+
+#EXTINF:-1,Samay Aalami-High Bandwidth
+
+http://94.75.250.49/liveorigin/sahar...1/ratus42.m3u8
+
+#EXTINF:-1,Samay Aalami
+
+http://94.75.250.49/liveorigin/sahar...2/ratus42.m3u8
+
+#EXTINF:-1,Samay Aalami-Low Bandwidth
+
+http://94.75.250.49/liveorigin/sahar...3/ratus42.m3u8
+
+#EXTINF:-1,Samay Bihar
+
+http://94.75.250.49/liveorigin/sahar...2/ratus42.m3u8
+
+#EXTINF:-1,Samay Bihar-Low Bandwidth
+
+http://94.75.250.49/liveorigin/sahar...3/ratus42.m3u8
+
+#EXTINF:-1,Samay Bihar-High Bandwidth
+
+http://94.75.250.49/liveorigin/sahar...1/ratus42.m3u8
+
+#EXTINF:-1,Samay Maharastra-High Bandwidth
+
+http://94.75.250.49/liveorigin/saharamum1/ratus42.m3u8
+
+#EXTINF:-1,Samay Maharastra-Low Bandwidth
+
+http://94.75.250.49/liveorigin/saharamum3/ratus42.m3u8
+
+#EXTINF:-1,Samay Maharastra
+
+http://94.75.250.49/liveorigin/saharamum2/ratus42.m3u8
+
+#EXTINF:-1,Samay MP-High Bandwidth
+
+http://94.75.250.49/liveorigin/sahar...1/ratus42.m3u8
+
+#EXTINF:-1,Samay MP
+
+http://94.75.250.49/liveorigin/sahar...2/ratus42.m3u8
+
+#EXTINF:-1,INDIA:0tv-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2 playpath=chan4.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:7S MUSIC
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2/hmtv5.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://tamiltv.tv///HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:7s-music-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=hmtv5.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:9X MUSIC:
+
+http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD171_W_250.sdp/hasbahca.m3u8
+
+#EXTINF:-1,INDIA:9x Tashan
+
+rtsp://46.249.213.93/broadcast/9xmtashan-tablet.3gp
+
+#EXTINF:-1,INDIA:9xm-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=dd2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:AAJTAK NEWS:
+
+http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD77_W_250.sdp/hasbahca.m3u8
+
+#EXTINF:-1,INDIA:AASTHA BHAJAN
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2/dd5.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:AASTHA DEVOTIONAL CHANNEL:
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2/dd6.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:aastha-bhajan/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=dd5.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:aastha-tv/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=dd6.stream swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:abn-andhrajyothi-news/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2 playpath=chan1.stream swfUrl=http://telugutv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:almi sahrha
+
+rtmp://cdn.m.yuppcdn.net/liveorigin/saharaaalami1
+
+#EXTINF:-1,INDIA:Anjan Tv[Bhojpuri]
+
+rtmp://$OPT:rtmp-raw=rtmp://182.73.208.74:1935/live playpath=livestream.swf swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://desichannels.webnode.com/regional-channels/anjan-tv/
+
+#EXTINF:-1,INDIA:aradana-christian-tv/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2 playpath=chan2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:ARY Qtv
+
+http://upmv07.ustream.tv/0/1/21/21803/21803918/1_2877889_21803918.flv?tracking=dae879_26_1_0_0&%3Boffair=true&%3Brpin=rpin.09147541008495888&%3Brsid=0k4knisj&%3Bri=3864&%3Brs=69
+
+#EXTINF:-1,INDIA:asianet-middle-east-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=asia1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:asianet-movies-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=asia15.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:asianet-news-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=asia0.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:asianet-suvarna/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=asia2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:atv-telugu/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2 playpath=hmtv4.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:B4U
+
+rtsp://46.249.213.87/broadcast/b4u-tablet.3gp
+
+#EXTINF:-1,INDIA:b4u-music/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=dd17.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:bhakthi-tv/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=maha8.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:BIG MAGIC
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2/dd2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:BOLLYWOOD ACTÝON 2
+
+rtsp://46.249.213.87/broadcast/bollywoodaction2-tablet.3gp
+
+#EXTINF:-1,INDIA:BOLLYWOOD CÝNEMA
+
+rtsp://46.249.213.87/broadcast/bollywoodcinema1-tablet.3gp
+
+#EXTINF:-1,INDIA:BOLLYWOOD CÝNEMA 2
+
+rtsp://46.249.213.87/broadcast/bollywoodcinema2-tablet.3gp
+
+#EXTINF:-1,INDIA:Bollywood Gossip
+
+rtsp://46.249.213.87/broadcast/bollywoodgossip-tablet.3gp
+
+#EXTINF:-1,INDIA:BOLLYWOOD HUNGAMA
+
+rtsp://46.249.213.87/broadcast/bollywoodhungama-tablet.3gp
+
+#EXTINF:-1,INDIA:Bollywood Independent Cinema
+
+rtsp://46.249.213.93/broadcast/indianstudentcinema-tablet.3gp
+
+#EXTINF:-1,INDIA:BREAKING NEWS
+
+http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD68_W_250.sdp/hasbahca.m3u8
+
+#EXTINF:-1,INDIA:CAPTAIN TV NEWS
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2/tamil1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:CARTOON NETWORK
+
+http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD28_W_250.sdp/hasbahca.m3u8
+
+#EXTINF:-1,INDIA:CHANNEL UFX
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2/tamil6.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:channel-ufx-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2 playpath=tamil6.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:chithiram-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=kalai4.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:CINEMA TV
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2/dd7.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:cinema-tv/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=dd7.stream swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:dabangg-tv/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2 playpath=dd18.stream swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:DANGAL TV
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2/dd14.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:dangal-tv-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2 playpath=dd14.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:DARSHANA TV
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2/hmtv6.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://tamiltv.tv/
+
+#EXTINF:-1,INDIA:darshana-tv-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=hmtv6.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:Dawn News
+
+rtsp://dawnstream.hostingmadeeasy.com/dawn
+
+#EXTINF:-1,INDIA:DD CHANDANA
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2/dd4.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:DD MALAYALAM
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2/dd9.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:DD NATIONAL
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2/dd1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:DD NATIONAL:
+
+http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD99_W_250.sdp/hasbahca.m3u8
+
+#EXTINF:-1,INDIA:DD PODHIGAI
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2/dd10.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:DD SAPTHAGIRI
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2/dd11.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:DD SPORTS
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2/dd3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:dd-chandana/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=dd4.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:dd-malayalam-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2 playpath=dd9.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:dd-national/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=dd1.stream swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:dd-news/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2 playpath=dd22.stream swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:dd-sports/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=dd3.stream swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:DELHI AAJTAK
+
+http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD68_W_250.sdp/hasbahca.m3u8
+
+#EXTINF:-1,INDIA:Divya TV
+
+http://live.nwk4.yupptv.tv/nwk4/smil:divya.smil/hasbahca.m3u8?userid=49610&pwd=b574f08e6762de6cd29c7508e28a29e6&channelid=778
+
+#EXTINF:-1,INDIA:E24:
+
+http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD83_W_150.sdp/hasbahca.m3u8
+
+#EXTINF:-1,INDIA:ETV2
+
+http://cdn.m.yuppcdn.net/liveorigin/smil:etv2.smil/hasbahca.m3u8?userid=49610&pwd=b574f08e6762de6cd29c7508e28a29e6&channelid=30
+
+#EXTINF:-1,INDIA:Films of India
+
+rtsp://46.249.213.93/broadcast/filmsofindia-tablet.3gp
+
+#EXTINF:-1,INDIA:Hindi Movies
+
+rtsp://46.249.213.93/broadcast/hindimovies-tablet.3gp
+
+#EXTINF:-1,INDIA:HMTV
+
+rtsp://cdn.m.yuppcdn.net/liveorigin/hmtv2
+
+#EXTINF:-1,INDIA:HMTV
+
+rtsp://cdn.m.yupptv.tv/liveorigin/hmtv1
+
+#EXTINF:-1,INDIA:HMTV NEWS
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2/hmtv0.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://tamiltv.tv/
+
+#EXTINF:-1,INDIA:hmtv-news/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=hmtv0.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:india tv
+
+http://bitgravity.live.cdn.bitgravity.com/indiatv/live/feed001
+
+#EXTINF:-1,INDIA:indiavision-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=hmtv1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:iNews
+
+http://cdn.m.yuppcdn.net/liveorigin/smil:inews_iphone.smil/hasbahca.m3u8?userid=49610&pwd=b574f08e6762de6cd29c7508e28a29e6&channelid=704
+
+#EXTINF:-1,INDIA:inews/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2 playpath=hmtv7.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:isai-aruvi-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=kalai2.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:JAIHIND
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2/asia6.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:jaihind-tv-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=asia6.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:jai-tamil-tv/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2 playpath=hmtv4.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:janapriya-tv-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=asia21.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:Janasri News
+
+http://cdn.m.yuppcdn.net/liveorigin/smil:janarasi_iphone.smil/hasbahca.m3u8?userid=49610&pwd=b574f08e6762de6cd29c7508e28a29e6&channelid=314
+
+#EXTINF:-1,INDIA:JANASRI NEWS
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2/asia8.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:Janasri News - Kannada
+
+rtsp://cdn.m.yupptv.tv/liveorigin/channel81
+
+#EXTINF:-1,INDIA:janasri-news-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=asia8.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:JEEVAN
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2/asia4.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:jeevan-tv-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=asia4.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:KAIRALI PEOPLE
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2/tamil3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:kairali-people-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2 playpath=tamil3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:kalaignar-tv-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=kalai0.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:kappa-tv/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2 playpath=asia18.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:kasthuri-news-24-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2 playpath=maha4.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:kasthuri-tv-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2 playpath=maha3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:kaumudy-tv-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2 playpath=asia11.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:Lemon Tv
+
+http://tata.live.cdn.bitgravity.com/lemon/live/feed01
+
+#EXTINF:-1,INDIA:Macau HD
+
+rtsp://218.213.227.174:1935/tv/ch6.live
+
+#EXTINF:-1,INDIA:Macau TV
+
+rtsp://218.213.227.174:1935/tv/ch3.live
+
+#EXTINF:-1,INDIA:MahaaTV
+
+http://cdn.m.yuppcdn.net/liveorigin/smil:mahatv_iphone.smil/hasbahca.m3u8?userid=49610&pwd=b574f08e6762de6cd29c7508e28a29e6&channelid=194
+
+#EXTINF:-1,INDIA:MAKKAL TV
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2/tamil20.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:MANORAMA NEWS
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.243/base2/maha1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:MANORAMA NEWS INTERNATIONAL
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2/asia7.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:manorama-news-international-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=asia7.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:manorama-news-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.243/base2 playpath=maha1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:MASTIII TV
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2/dd18.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:MASTIII TV
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2/dd8.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:mathrubhumi-news/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=asia10.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:matiii-tv-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=dd8.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:mazhavil-manorama-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=maha2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:mediaone-tv-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=asia17.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:MHARÝSHÝ CHANNEL
+
+rtsp://streaming.mou.org/videodialup
+
+#EXTINF:-1,INDIA:MK TV
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2/tamil26.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:murasu-tv-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=kalai5.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:music-india/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=maha11.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:ND TV
+
+http://bglive-a.bitgravity.com/ndtv/247hi/live/native
+
+#EXTINF:-1,INDIA:NDTV 24x7
+
+http://bglive-a.bitgravity.com/ndtv/247lo/live/native
+
+#EXTINF:-1,INDIA:NDTV 24x7 S2
+
+http://ndtv.indostan.epac.to/ndtv/247lo/live/native
+
+#EXTINF:-1,INDIA:NDTV India
+
+http://bglive-a.bitgravity.com/ndtv/indlo/live/native
+
+#EXTINF:-1,INDIA:NDTV India
+
+http://ndtv.indostan.epac.to/ndtv/indlo/live/native
+
+#EXTINF:-1,INDIA:ndtv india news
+
+http://bglive-a.bitgravity.com/ndtv/indlo/live/native
+
+#EXTINF:-1,INDIA:NDTV Profit
+
+http://bglive-a.bitgravity.com/ndtv/prolo/live/native
+
+#EXTINF:-1,INDIA:NDTV Profit
+
+http://bglive-a.bitgravity.com/ndtv/prolo/live/native
+
+#EXTINF:-1,INDIA:NDTV Profit S2
+
+http://bglive-a.bitgravity.com/ndtv/prolo/live/native
+
+#EXTINF:-1,INDIA:News Channel
+
+http://cdn.m.yuppcdn.net/liveorigin/smil:asianet.smil/hasbahca.m3u8?userid=49610&pwd=b574f08e6762de6cd29c7508e28a29e6&channelid=144
+
+#EXTINF:-1,INDIA:ntv-malayalam/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2 playpath=ntvuae.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:ntv-telugu-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2 playpath=maha7.stream swfUrl=http://telugutv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:Oscar Movies Bhojpuri
+
+http://live.nwk4.yupptv.tv/nwk4/smil:oscarmovies.smil/hasbahca.m3u8?userid=49610&pwd=b574f08e6762de6cd29c7508e28a29e6&channelid=806
+
+#EXTINF:-1,INDIA:OTV:
+
+http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD93_W_250.sdp/hasbahca.m3u8
+
+#EXTINF:-1,INDIA:POGO TV:
+
+http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD29_W_250.sdp/hasbahca.m3u8
+
+#EXTINF:-1,INDIA:POLIMER NEWS
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2/tamil21.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:POLIMER TV
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2/tamil23.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:polimer-kannada/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2 playpath=cvr2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:Powervision
+
+http://cdn.m.yuppcdn.net/liveorigin/smil:powervision_iphone.smil/hasbahca.m3u8?userid=49610&pwd=b574f08e6762de6cd29c7508e28a29e6&channelid=706
+
+#EXTINF:-1,INDIA:powervision-tv/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=asia19.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:prabhatam-news/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=maha14.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:PUBLIC TV
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2/tamil24.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:Public TV
+
+http://live.nwk4.yupptv.tv/nwk4/smil:publictv.smil/hasbahca.m3u8?userid=49610&pwd=b574f08e6762de6cd29c7508e28a29e6&channelid=807
+
+#EXTINF:-1,INDIA:public-tv-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2 playpath=tamil24.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:PUTHIYA THALAIMURAI
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2/tamil22.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:Raj News
+
+rtmp://cdn.m.yupptv.tv/liveorigin/rajnews1
+
+#EXTINF:-1,INDIA:raj-music-telugu/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=raj1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:raj-musix-kannada/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=raj0.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:raj-musix-malayalm/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=raj4.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:raj-news-kannada/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=raj0.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:raj-pariwar-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=raj5.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:Ramadan TV
+
+rtsp://stream.watchislam.com/ramadan
+
+#EXTINF:-1,INDIA:reporter-tv-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=asia5.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:rishtey-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=dd19.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:RK News
+
+rtsp://cdn.m.yupptv.tv/liveorigin/rknews1
+
+#EXTINF:-1,INDIA:RVS TV
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2/hmtv3.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://tamiltv.tv/
+
+#EXTINF:-1,INDIA:rvs-tv/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=hmtv3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:safari-tv-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=asia24.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:Sahara Aalami
+
+rtsp://cdn.m.yupptv.tv/liveorigin/saharaaalami1
+
+#EXTINF:-1,INDIA:Sahara Bihar
+
+rtsp://cdn.m.yupptv.tv/liveorigin/saharabihar1
+
+#EXTINF:-1,INDIA:SAHARA FILMY:
+
+http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD66_W_250.sdp/hasbahca.m3u8
+
+#EXTINF:-1,INDIA:Sahara Madhya pradesh
+
+rtsp://cdn.m.yupptv.tv/liveorigin/saharamadhyap1
+
+#EXTINF:-1,INDIA:Sahara Mumbai
+
+rtsp://cdn.m.yupptv.tv/liveorigin/saharamum1
+
+#EXTINF:-1,INDIA:Sahara Samay
+
+rtsp://cdn.m.yupptv.tv/liveorigin/saharasamaynew1
+
+#EXTINF:-1,INDIA:sahara-samay/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2 playpath=dd29.stream swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:SAKSHI
+
+rtsp://cdn.m.yuppcdn.net/liveorigin/sakshi2
+
+#EXTINF:-1,INDIA:Sakshi
+
+rtmp://cdn.m.yupptv.tv:80/liveorigin/sakshi1
+
+#EXTINF:-1,INDIA:SAMAYA TV
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2/maha9.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:samaya-tv/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=maha9.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:sangeet-bangla/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=maha10.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:satyaveeda-tv/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=asia23.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:seithigal-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=kalai1.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:Shalom TV
+
+http://cdn.m.yuppcdn.net/liveorigin/smil:shalomtv_iphone.smil/hasbahca.m3u8?userid=49610&pwd=b574f08e6762de6cd29c7508e28a29e6&channelid=705
+
+#EXTINF:-1,INDIA:shalom-tv-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.243/base2 playpath=asia16.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:sirippoli-tv/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=kalai3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:SONY MIX
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2/dd17.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:Sony SAB TV
+
+rtsp://46.249.213.93/broadcast/sonysabtv-tablet.3gp
+
+#EXTINF:-1,INDIA:Sri Sankara TV_Kannada
+
+http://cdn.m.yuppcdn.net/liveorigin/smil:sankarakan_iphone.smil/hasbahca.m3u8?userid=49610&pwd=b574f08e6762de6cd29c7508e28a29e6&channelid=729
+
+#EXTINF:-1,INDIA:Sri Sankara TV_Tamil
+
+http://cdn.m.yuppcdn.net/liveorigin/smil:sankaratam_iphone.smil/hasbahca.m3u8?userid=49610&pwd=b574f08e6762de6cd29c7508e28a29e6&channelid=728
+
+#EXTINF:-1,INDIA:STAR UTSAV
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2/dd15.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:star-utsav/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=dd15.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:STUDIO N
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2/tamil8.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:Studio N
+
+rtsp://cdn.m.yupptv.tv/liveorigin/studion2
+
+#EXTINF:-1,INDIA:STUDIO N 2
+
+rtsp://cdn.m.yuppcdn.net/liveorigin/studion3
+
+#EXTINF:-1,INDIA:studio-n/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2 playpath=tamil8.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:Sudarshan News
+
+http://cdn.m.yuppcdn.net/liveorigin/smil:sudarshantv.smil/hasbahca.m3u8?userid=49610&pwd=b574f08e6762de6cd29c7508e28a29e6&channelid=599
+
+#EXTINF:-1,INDIA:sun-life-music/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2 playpath=hmtv7.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:Suvarna
+
+http://cdn.m.yuppcdn.net/liveorigin/smil:suvarna.smil/hasbahca.m3u8?userid=49610&pwd=b574f08e6762de6cd29c7508e28a29e6&channelid=111
+
+#EXTINF:-1,INDIA:Suvarna - Kannada
+
+rtsp://cdn.m.yupptv.tv/liveorigin/suvarna1
+
+#EXTINF:-1,INDIA:SUVARNA NEWS 24X7
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2/asia2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:SUVARNA PLUS
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2/asia3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:suvarna-plus-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=asia3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:SVBC1
+
+rtsp://cdn.m.yupptv.tv/liveorigin/svbc1
+
+#EXTINF:-1,INDIA:SVBC2
+
+rtsp://cdn.m.yuppcdn.net/liveorigin/svbc2
+
+#EXTINF:-1,INDIA:svbc-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2 playpath=maha5.stream swfUrl=http://telugutv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:Tamil arratv
+
+rtmp://$OPT:rtmp-raw=rtmp://flash6.chennaistream.net/130515/_definst_/ playpath=livestream swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livetvchannelsfree.com/arratv.html
+
+#EXTINF:-1,INDIA:Tamil channelufx
+
+rtmp://$OPT:rtmp-raw=rtmp://live.wmncdn.net/ufx/ playpath=378846f78998168446c173d7055d2653.sdp swfUrl=http://player-emea-uk.webmobilive.com/player/liveplayer.swf live=1 pageUrl=http://livetvchannelsfree.com/channelufx.html
+
+#EXTINF:-1,INDIA:Tamil eettv
+
+rtmp://$OPT:rtmp-raw=rtmp://37.59.17.222:1935/secure/ playpath=live swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livetvchannelsfree.com/eettv.html
+
+#EXTINF:-1,INDIA:Tamil lotusnews
+
+rtmp://$OPT:rtmp-raw=rtmp://live.wmncdn.net/lotus/ playpath=25526e8cfa035fc30910e40b3f2e4348.sdp swfUrl=http://player-emea-uk.webmobilive.com/player/liveplayer.swf live=1 pageUrl=http://livetvchannelsfree.com/lotusnews.html
+
+#EXTINF:-1,INDIA:Tamil moontv
+
+rtmp://$OPT:rtmp-raw=rtmp://stream.mslive.co.in/live/ playpath=gmoon1 swfUrl=http://mslive.co.in/jw/player.swf live=1 pageUrl=http://livetvchannelsfree.com/moontv.html
+
+#EXTINF:-1,INDIA:Tamil pepperstv
+
+rtmp://$OPT:rtmp-raw=rtmp://live.wmncdn.net/peppers/ playpath=peppers.stream swfUrl=http://player-nasa-us.webmobilive.com/player/liveplayer.swf live=1 pageUrl=http://livetvchannelsfree.com/pepperstv.html
+
+#EXTINF:-1,INDIA:Tamil robinson
+
+rtmp://$OPT:rtmp-raw=rtmp://38.96.148.172:1935/live/ playpath=robinson swfUrl=http://www.iwaystream.com/remote2/player/player-default.swf live=1 pageUrl=http://www.iwaystream.com/remote2/robinson/
+
+#EXTINF:-1,INDIA:Tamil shalinitv
+
+rtmp://$OPT:rtmp-raw=rtmp://live.wmncdn.net/shalini/ playpath=7bb6687be4c09693ced378f17133c850.sdp swfUrl=http://player-apac-sing.webmobilive.com/player/liveplayer.swf live=1 pageUrl=http://livetvchannelsfree.com/shalinitv.html
+
+#EXTINF:-1,INDIA:Tamil suntv
+
+rtmp://$OPT:rtmp-raw=rtmp://89.248.163.3/fms22/ playpath=suntv swfUrl=http://tags.kbcast.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.kbcast.com/embed.php?live=suntv&vw=600&vh=450
+
+#EXTINF:-1,INDIA:Tamil tamillantv
+
+rtmp://$OPT:rtmp-raw=rtmp://38.96.175.192:1943/live playpath=tamilantelevision swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://livetvchannelsfree.com/tamillantv.html
+
+#EXTINF:-1,INDIA:Tamil vasanthamtv
+
+rtmp://$OPT:rtmp-raw=rtmp://mediacp2.comcities.com:1935/itn-vasantham playpath=itn-vasantham swfUrl=http://cdn.itnlanka.com/vasanthamtv.swf live=1 pageUrl=http://livetvchannelsfree.com/vasanthamtv.html
+
+#EXTINF:-1,INDIA:Thanthi TV
+
+http://cdn.m.yuppcdn.net/liveorigin/smil:ndtvhindu_iphone.smil/hasbahca.m3u8?userid=49610&pwd=b574f08e6762de6cd29c7508e28a29e6&channelid=214
+
+#EXTINF:-1,INDIA:TIMES NOW:
+
+http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD96_W_250.sdp/hasbahca.m3u8
+
+#EXTINF:-1,INDIA:TV
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2/maha8.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:TV 5
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2/tamil25.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:TV 5
+
+rtsp://cdn.m.yupptv.tv/liveorigin/tv51
+
+#EXTINF:-1,INDIA:tv5-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2 playpath=tamil25.stream swfUrl=http://telugutv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:V6 News
+
+http://cdn.m.yuppcdn.net/liveorigin/smil:v6news_iphone.smil/hasbahca.m3u8?userid=49610&pwd=b574f08e6762de6cd29c7508e28a29e6&channelid=447
+
+#EXTINF:-1,INDIA:VANITHA TV
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2/maha19.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:vanitha-tv/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=maha19.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:VASANTH TV
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2/tamil7.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:Vasanth TV(Tamil)
+
+http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed02?e=0%26h%3Da9be0836bc39f96d0a9a958a659dfc1d%26bgsecuredir%3D1
+
+#EXTINF:-1,INDIA:vasanth-tv-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.252:1940/base2 playpath=tamil7.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:YES INDIAVISION
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2/hmtv2.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://tamiltv.tv/
+
+#EXTINF:-1,INDIA:yes-indiavision-live/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=hmtv2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:Zee 24 Ghantalu
+
+http://aes2.yuppcdn.net/secure/smil:zee24ghantalu.smil/hasbahca.m3u8?userid=49610&pwd=b574f08e6762de6cd29c7508e28a29e6&channelid=292
+
+#EXTINF:-1,INDIA:ZEE SMILE
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2/dd16.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:zee-anmol/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=dd12.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+
+#EXTINF:-1,INDIA:zee-smile/
+
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.253:1939/base2 playpath=dd16.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+

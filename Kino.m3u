@@ -1,0 +1,28 @@
+﻿#EXTM3U
+#EXTINF:-1,FILM TV
+http://195.9.195.3:8080/hls/165462.m3u8
+#EXTINF:-1,PZN
+http://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF:-1,STR
+https://hls.goodgame.ru/hls/130048.m3u8
+#EXTINF:-1,FAN
+http://195.9.195.3:8080/hls/157239.m3u8
+#EXTINF:-1,mars tv
+https://v2.catcast.me/content/37033/index.m3u8
+#EXTINF:-1,kv1
+https://v2.catcast.me/content/35525/index.m3u8
+#EXTINF:-1,boevik tv
+https://v2.catcast.me/content/37493/index.m3u8
+#EXTINF:-1,strah
+https://v2.catcast.me/content/36277/index.m3u8
+#EXTINF:-1,Karate
+https://v2.catcast.me/content/37316/index.m3u8
+#EXTINF:-1,evgenVHS
+https://v2.catcast.me/content/36251/index.m3u8
+#EXTINF:-1,evgen ссср
+https://v2.catcast.me/content/36506/index.m3u8
+#EXTINF:-1,Kinozal
+https://s3.catcast.me/live/what.flv
+#EXTINF:-1,ULTO
+http://ultotv.ru:8888/live/uhd/playlist.m3u8
+

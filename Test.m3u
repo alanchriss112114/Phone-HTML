@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 ,BRAZZERS
+http://185.180.12.90:8080/BRAZZERS/index.m3u8?token=test
+#EXTINF:-1 ,DAVINCI
+http://185.180.12.90:8080/DAVINCI/index.m3u8?token=test
+#EXTINF:-1 ,DISCOVERYSCIENCE
+http://185.180.12.90:8080/DISCOVERYSCIENCE/index.m3u8?token=test
+#EXTINF:-1 ,DORCEL HD
+http://185.180.12.90:8080/DORCEL/index.m3u8?token=test
+#EXTINF:-1 ,FINELIVING
+http://185.180.12.90:8080/FINELIVING/index.m3u8?token=test
+#EXTINF:-1 ,FOXLIFE
+http://185.180.12.90:8080/FOXLIFE/index.m3u8?token=test
+#EXTINF:-1 ,HBO2 HD
+http://185.180.12.90:8080/HBO2/index.m3u8?token=test
+#EXTINF:-1 ,HISTORY
+http://185.180.12.90:8080/HISTORY/index.m3u8?token=test
+#EXTINF:-1 ,HUSTLER HD
+http://185.180.12.90:8080/HUSTLER/index.m3u8?token=test
+#EXTINF:-1 ,KANAL5
+http://185.180.12.90:8080/KANAL5/index.m3u8?token=test
+#EXTINF:-1 ,O2
+http://185.180.12.90:8080/O2/index.m3u8?token=test
+#EXTINF:-1 ,ORF1 HD
+http://185.180.12.90:8080/ORF1/index.m3u8?token=test
+#EXTINF:-1 ,PINK
+http://185.180.12.90:8080/PINK/index.m3u8?token=test
+#EXTINF:-1 ,PRIVATE HD
+http://185.180.12.90:8080/PRIVATE/index.m3u8?token=test
+#EXTINF:-1 ,PRO7 HD
+http://185.180.12.90:8080/PRO7/index.m3u8?token=test
+#EXTINF:-1 ,REDLIGHT HD
+http://185.180.12.90:8080/REDLIGHT/index.m3u8?token=test
+#EXTINF:-1 ,RTL2
+http://185.180.12.90:8080/RTL2/index.m3u8?token=test
+#EXTINF:-1 ,RTL
+http://185.180.12.90:8080/RTL/index.m3u8?token=test
+#EXTINF:-1 ,SPORT2 HD 
+http://185.180.12.90:8080/SPORT2/index.m3u8?token=test
+#EXTINF:-1 ,SUPERRTL HD
+http://185.180.12.90:8080/SUPERRTL/index.m3u8?token=test
+#EXTINF:-1 ,TRAVEL
+http://185.180.12.90:8080/TRAVEL/index.m3u8?token=test

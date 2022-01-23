@@ -26,5 +26,5 @@ NOTE: Please read the RUN section before opening an issue.
   <a href="www.google.com"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/><a/>
   <a href="www.google.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
   <a href="www.google.com"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/><a/>
-   <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>
+   <img src="https://cdn.iconscout.com/icon/free/png-512/python-569564.png"/>
 

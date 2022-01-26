@@ -16,10 +16,10 @@
 
 ## Interesses
 
-<a><img height="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/><a/>
-<a><img height="40" src="https://imgur.com/f3b7uly.png" alt="c"/><a/>
-<a><img height="40" src="https://imgur.com/8gX1qys.png" alt="Angular"/><a/>
-<a><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/><a/>
+<a><img height="44" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/><a/>
+<a><img height="40" src="https://imgur.com/f3b7uly.png" alt="c++"/><a/>
+<a><img height="40" src="https://imgur.com/8gX1qys.png" alt="Java"/><a/>
+<a><img height="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/><a/>
 
 ## Social Networks
   

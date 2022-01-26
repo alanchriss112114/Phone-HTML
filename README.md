@@ -1,6 +1,6 @@
 <h1 align="center">USER<h1/>
 
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/iuricode/)
+[![card](https://github-readme-stats.vercel.app/api?alanchriss112114=iuricode&theme=default)](https://github.com/iuricode/)
 
 
 ## Hard Skills

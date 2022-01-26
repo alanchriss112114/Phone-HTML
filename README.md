@@ -1,13 +1,10 @@
 <h1 align="center">USER<h1/>
 
-<div>
-  <div>
+
     [![card](https://github-readme-stats.vercel.app/api?username=alanchriss112114&theme=default)](https://github.com/alanchriss112114/)
-  <div/>
-  <div>
+
      [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=alanchriss112114&hide=html&layout=compact&theme=default)](https://github.com/alanchriss112114/)
-  <div/>
-<div/>
+
 
 ## Hard Skills
 

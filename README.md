@@ -1,8 +1,8 @@
 <h1 align="center">USER<h1/>
 
-[![card](https://github-readme-stats.vercel.app/api?username=cypress-io&theme=default)](https://github.com/alanchriss112114)
+[![card](https://github-readme-stats.vercel.app/api?username=adam-p&theme=default)](https://github.com/alanchriss112114)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=cypress-io&hide=html&layout=compact&theme=default)](https://github.com/alanchriss112114)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=adam-p&hide=html&layout=compact&theme=default)](https://github.com/alanchriss112114)
 
 
 ## Hard Skills
